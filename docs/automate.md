@@ -5,7 +5,7 @@
 
 CyVerse supports multiple avenues for automating your work.
 
-* **The Discovery Environment (DE) Workflow Manager**.  The [CyVerse DE](https://de.cyverse.org) supports creating and editing automated linear pipelines for data processing and analysis, as [documented at this link](https://pods.iplantcollaborative.org/wiki/pages/viewpage.action?pageId=8391828).   Examples of Genomics workflows are available [here](https://pods.iplantcollaborative.org/wiki/display/TUT/Genomics+Workflows).
+* **The Discovery Environment (DE) Workflow Manager**.  The [CyVerse DE](https://de.cyverse.org/de/) supports creating and editing automated linear pipelines for data processing and analysis, as [documented at this link](https://pods.iplantcollaborative.org/wiki/pages/viewpage.action?pageId=8391828).   Examples of Genomics workflows are available [here](https://pods.iplantcollaborative.org/wiki/display/TUT/Genomics+Workflows).
 
 * **High Throuput Computing**.  Cyverse maintains a Condor cluster at the University of Arizona that supports high throughput workflows that can be initiated either through the [CyVerse DE](https://de.cyverse.org) or through the command line using the DE / Terrain APIs.  Command line tools for the Terrain APIs are available as part of the Cyverse SDK, and full API documentation is available [here](https://cyverse-de.github.io/api/).  Instructions on using the Cyverse SDK as well as an example of running a HTC job are in the [Terrain CLI](./terrain-example.md) page.
 
